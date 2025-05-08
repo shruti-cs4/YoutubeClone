@@ -1,0 +1,44 @@
+.side-bar{
+  width: 60px;
+  background-color: lightblue;
+  color: black;
+  position: fixed;
+  top: 58px;
+  bottom: 0; 
+  left: 0;
+  padding-left: 15px;
+  padding-top: 15px;
+  padding-bottom: 0;
+}
+
+.home{
+  height: 40px;
+}
+
+.explore{
+  height: 40px;
+  padding-top: 15px;
+}
+
+
+.subscription{
+  height: 40px;
+  padding-top: 15px;
+}
+
+
+.orignal{
+  height: 40px;
+  padding-top: 15px;
+}
+
+
+.music{
+  height: 40px;
+  padding-top: 15px;
+}
+
+.library{
+  height: 40px;
+  padding-top: 15px;
+}
