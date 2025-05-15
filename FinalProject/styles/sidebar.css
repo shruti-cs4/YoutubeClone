@@ -1,44 +1,76 @@
 .side-bar{
-  width: 60px;
-  background-color: lightblue;
+  width: 72px;
+  background-color: white;
   color: black;
   position: fixed;
   top: 58px;
-  bottom: 0; 
   left: 0;
-  padding-left: 15px;
-  padding-top: 15px;
-  padding-bottom: 0;
+  bottom: 0;
+}
+
+
+.homeB{
+  width: 72px;
+  border: none;
+  font-size: 10px;
+  font-family: Roboto;
+  background-color: white;
+  transition: background-color 0.15s;
+}
+.homeB:hover{
+  background-color: rgba(0, 0, 0, 0.06);
 }
 
 .home{
-  height: 40px;
+  height: 25px;
 }
 
-.explore{
-  height: 40px;
-  padding-top: 15px;
-}
-
-
-.subscription{
-  height: 40px;
-  padding-top: 15px;
-}
-
-
-.orignal{
-  height: 40px;
-  padding-top: 15px;
+.exploreB{
+  width: 72px;
+  border: none;
+  font-size: 10px;
+  font-family: Roboto;
+  background-color: white;
+  transition: background-color 0.15s;
 }
 
 
-.music{
-  height: 40px;
-  padding-top: 15px;
+.subscriptionB{
+  width: 72px;
+  border: none;
+  font-size: 10px;
+  font-family: Roboto;
+  background-color: white;
+  transition: background-color 0.15s;
+  
 }
 
-.library{
-  height: 40px;
-  padding-top: 15px;
+
+.orignalB{
+  width: 72px;
+  border: none;
+  font-size: 10px;
+  font-family: Roboto;
+  background-color: white;
+  transition: background-color 0.15s;
+
+}
+
+
+.musicB{
+  width: 72px;
+  border: none;
+  font-size: 10px;
+  font-family: Roboto;
+  background-color: white;
+  transition: background-color 0.15s;
+}
+
+.libraryB{
+  width: 72px;
+  border: none;
+  font-size: 10px;
+  font-family: Roboto;
+  background-color: white;
+  transition: background-color 0.15s;
 }
